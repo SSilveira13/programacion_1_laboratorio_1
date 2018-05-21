@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1525740568 source:d:\santiago\parcial_santiago_silveira_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ProductoyProveedor.h"
+	"ComprobarYLimites.h"
+
+1525740568 d:\santiago\parcial_santiago_silveira_1f\productoyproveedor.h
+
+1525738126 source:d:\santiago\parcial_santiago_silveira_1f\comprobarylimites.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525725112 d:\santiago\parcial_santiago_silveira_1f\comprobarylimites.h
+
+1525740649 source:d:\santiago\parcial_santiago_silveira_1f\productoyproveedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ProductoyProveedor.h"
+	"ComprobarYLimites.h"
+
+1525738126 source:c:\users\alumno\desktop\parcial_santiago_silveira_1f\comprobarylimites.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525740568 source:c:\users\alumno\desktop\parcial_santiago_silveira_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ProductoyProveedor.h"
+	"ComprobarYLimites.h"
+
+1525740568 c:\users\alumno\desktop\parcial_santiago_silveira_1f\productoyproveedor.h
+
+1525725112 c:\users\alumno\desktop\parcial_santiago_silveira_1f\comprobarylimites.h
+
+1525740649 source:c:\users\alumno\desktop\parcial_santiago_silveira_1f\productoyproveedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ProductoyProveedor.h"
+	"ComprobarYLimites.h"
+
